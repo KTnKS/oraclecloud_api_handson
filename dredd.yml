@@ -1,7 +1,7 @@
 reporter: apiary
 custom:
-  apiaryApiKey: 
-  apiaryApiName: 
+  apiaryApiKey: 1c95c23395f455a79f7a5ccf8a08e4c4
+  apiaryApiName: ktnks
 dry-run: null
 hookfiles: null
 language: nodejs
